@@ -1,1 +1,1 @@
-all serverfiles
+all server files
